@@ -1,0 +1,3 @@
+Model,Test_MSE,Number_of_Parameters
+Adaline,32.14031043041848,15
+MLP,1.0749328878116922,5185
